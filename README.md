@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranesh-k2213
-- 👀 I’m interested in C++ and arduino
-- 🌱 I’m currently learning CPP 
+- 👀 I’m interested in web development and embedded systems 
+- 🌱 Animaitons on react
 - 📫 You can reacg me by email pranesh.k2213@gmail.com
 
 <!---
